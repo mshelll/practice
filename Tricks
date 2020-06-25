@@ -1,0 +1,10 @@
+Tricks : 
+
+
+Deepcopy a python list
+
+a = b[:]
+
+Transpose a matrix 
+
+tmat = zip(*mat)
